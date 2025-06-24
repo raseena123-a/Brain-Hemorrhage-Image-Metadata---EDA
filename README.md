@@ -1,7 +1,7 @@
 # Brain Hemorrhage Image Metadata EDA
 This project performs Exploratory Data Analysis (EDA) on a dataset of brain scan image metadata to identify key patterns related to image characteristics and class labels (hemorrhage vs normal).
 ##  Dataset
-<ahref 
+<ahref https://github.com/raseena123-a/Brain-Hemorrhage-Image-Metadata---EDA/tree/main</ahref>
 ##  Questions Explored
 1. What is the distribution of brain hemorrhage vs normal cases?
 2. Do image sizes (width, height) vary between hemorrhage and normal cases?
